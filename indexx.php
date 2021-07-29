@@ -24,7 +24,7 @@ if(isset($_POST['login']))
 <html lang="en">
 
 <head>
-    <!-- Required meta tags-->
+  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="au theme template">
